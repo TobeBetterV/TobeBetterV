@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://ssr-contributions-svg.vercel.app/_/tobeBetterV?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=mess&animation_duration=3&animation_loop=true&format=svg&weeks=40)
+
 <!--
 **TobeBetterV/TobeBetterV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
