@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/TobeBetterV/Javascript-Definitive-Guide/main/github_test.svg)
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://redux.js.org" target="_blank"> <img style={{display:none}} src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  </p>
 
 <!--
 **TobeBetterV/TobeBetterV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
