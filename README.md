@@ -4,6 +4,9 @@
 
 <a href="#top" target="_blank"><img src="https://raw.githubusercontent.com/TobeBetterV/Javascript-Definitive-Guide/main/github_test.svg" alt="nodejs" width="400" height="400"/></a>
 
+![](https://raw.githubusercontent.com/TobeBetterV/Javascript-Definitive-Guide/main/github_test.svg)
+
+
 <!--
 **TobeBetterV/TobeBetterV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
