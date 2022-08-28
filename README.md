@@ -11,14 +11,6 @@
                 stroke-width="2"
                 fill="#ff0000"
         >
-            <animate
-                    attributeName="points"
-                    values="50,50 150,50 150,150 50,150;50,50 150,50 180,150 20,150;10,50 150,50 180,150 20,150"
-                    dur="1.5s"
-                    fill="freeze"
-                    begin="mouseover"
-                    repeatCount="indefinite"
-            ></animate>
         </polygon>
     </svg>
   </p>
